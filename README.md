@@ -16,13 +16,8 @@ I extracted and created three standalone tools:
 ├── README.md                    
 ├── graph_generator.cpp          # Graph generator 
 ├── sp_recognizer.cpp           # Series-parallel recognition tool 
-├── quick_test.sh              # Manual testing script for quick verification
-└── examples/                  # Example input/output files
-    ├── small_graph.txt
-    ├── large_graph.txt
-    └── sample_outputs.txt
 ```
-
+Nathans orignal implmentation had many testcases so I have left those in his repository.
 ## Task 1: Graph Generator
 
 ### Description
