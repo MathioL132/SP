@@ -2,13 +2,13 @@
 
 ## Overview
 
-This project contains three main components extracted and adapted from Nathan Levy's COMP-4990 project at the University of Windsor. The original project was a C++ implementation of algorithms for determining if graphs are generalized series-parallel, series-parallel, and/or outerplanar.
+This project contains two main components extracted and adapted from Nathan Levy's COMP-4990 project at the University of Windsor. The original project was a C++ implementation of algorithms for determining if graphs are generalized series-parallel, series-parallel, and/or outerplanar.
 
-I extracted and created three standalone tools:
+I extracted and created these standalone tools:
 
 - **Graph Generator** - Generates random biconnected graphs for testing
 - **Series-Parallel Recognizer** - Determines if a graph is series-parallel
-- **Test Suite** - Automated testing framework that validates both tools
+
 
 ## Project Structure
 
