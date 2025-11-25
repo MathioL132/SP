@@ -15,8 +15,13 @@ I extracted and created these standalone tools:
 ```
 ├── README.md                    
 ├── graph_generator.cpp          # Graph generator 
-├── sp_recognizer.cpp           # Series-parallel recognition tool 
+├── sp_recognizer.cpp           # Series-parallel recognition tool
 ```
+## Compilation
+Demo compilation and execution
+
+g++ -O2 -std=c++17 graph_generator.cpp -o graph_generator 
+g++ -std=c++17 -O2 sp_recognition.cpp -o sp_recognition
 ## Task 1: Graph Generator
 
 ### Description
